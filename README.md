@@ -33,4 +33,4 @@ Firebase Storage : implementation 'com.google.firebase:firebase-storage-ktx:20.2
 
 ## Demo
 
-![3](https://github.com/erkutanildinc/TurkcellBootcamp-PlacesToVisit/assets/81919398/58bd53e8-748e-4374-85fd-3bb0468884da)
+![4](https://github.com/erkutanildinc/TurkcellBootcamp-PlacesToVisit/assets/81919398/ff9d6c3c-fb7a-497a-8fbf-d521c4579e32)
